@@ -1,0 +1,2 @@
+# JsNotePad
+React/Redux/Typescript
